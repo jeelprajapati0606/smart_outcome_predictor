@@ -14,7 +14,7 @@
 
 [![Notebook](https://img.shields.io/badge/OPEN-JUPYTER%20NOTEBOOK-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](smart_outcome/Smart%20Outcome%20Predictor-checkpoint.ipynb)
 [![Dataset](https://img.shields.io/badge/EXPLORE-DATASET-14B8A6?style=for-the-badge&logo=databricks&logoColor=white)](smart_outcome/Smart_Outcome_Predictor_Dataset_5200%20-%20Smart_Outcome_Predictor_Dataset_5200.csv.csv)
-[![Questions](https://img.shields.io/badge/READ-PROJECT%20QUESTIONS-635BFF?style=for-the-badge&logo=readthedocs&logoColor=white)](smart_outcome/Project-Questions.pdf)
+[![Questions](https://img.shields.io/badge/READ-PROJECT%20QUESTIONS-635BFF?style=for-the-badge&logo=readthedocs&logoColor=white)](https://docs.google.com/document/d/1LUr9mKQZ6vgHsGDdj1PkmE5EsrhOkeK3oG-HyhuIeWc/edit?tab=t.0)
 [![Theory](https://img.shields.io/badge/READ-THEORY%20PDF-EA580C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](smart_outcome/Part-A-Ensemble-Learning-QA.pdf)
 [![Report](https://img.shields.io/badge/VIEW-FINAL%20REPORT-2563EB?style=for-the-badge&logo=googledocs&logoColor=white)](smart_outcome/Part-G-Final-Report-Smart-Outcome-Predictor.pdf)
 ![Explanation video not provided](https://img.shields.io/badge/EXPLANATION%20VIDEO-LINK%20NOT%20PROVIDED-64748B?style=for-the-badge&logo=youtube&logoColor=white)
